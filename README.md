@@ -1,4 +1,4 @@
-### Hi, I'm Joaquin! &nbsp;&nbsp;<sup>👾 | I'm a university student passionate about FOSS. Occasionally, I create 3D models with Blender.</sup>
+### Hi, I'm Joaquin! &nbsp;&nbsp;<sup> 🧑🏽‍💻| I'm a university student passionate about FOSS. Occasionally, I create 3D models with Blender.</sup>
 
 ----
 
