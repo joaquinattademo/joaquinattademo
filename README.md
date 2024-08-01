@@ -19,3 +19,6 @@
 <a href="mailto:joaquinattademo@gmail.com">
   <img alt="My e-mail" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
 </a>
+<a href="https://mastodon.social/@jqn7" target="_blank">
+  <img alt="Mastodon" width="20px" src="https://simpleicons.now.sh/mastodon/000000" />
+</a>
