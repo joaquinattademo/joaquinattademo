@@ -1,6 +1,5 @@
 ### Hi, I'm Joaquin! 🧑🏽‍💻
-I'm a university student passionate about FOSS. Occasionally, I create 3D models using Blender.
-
+I'm a university student with a passion for FOSS. Outside of my studies, I enjoy indoor bouldering and also spend time creating 3D models using Blender.
 ----
 
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat-square)
